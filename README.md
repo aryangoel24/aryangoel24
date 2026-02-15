@@ -3,9 +3,9 @@
 </a>
 
 ## 💫 About Me:
-🎓 4th Year CS Specialist @ University of Toronto graduating May 2026
-💼 Prev @ Shopify, Veeva Systems 
-🔬 AI Safety Research Engineer @ Algoverse  
+🎓 4th Year CS Specialist @ University of Toronto graduating May 2026 <br>
+💼 Prev SWE @ Shopify, Veeva Systems <br>
+🔬 AI Safety Research Engineer @ Algoverse  <br>
 🔍 Actively seeking New Grad 2026 Software Engineering roles  
 🔗 [aryangoel24.vercel.app](https://aryangoel24.vercel.app)  
 <br>
